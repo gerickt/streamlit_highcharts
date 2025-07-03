@@ -7,7 +7,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name="streamlit-highcharts-gerick",
-    version="0.2.0a1",
+    version="0.2.0a2",
     author="Gerick Toro",
     author_email="gerickt@gmail.com",
     description="Simple wrapper for Highcharts JS libs",
